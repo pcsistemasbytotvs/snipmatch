@@ -1,0 +1,2 @@
+# snipmatch
+Repositório de sniptes.
